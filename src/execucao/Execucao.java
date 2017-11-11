@@ -18,7 +18,7 @@ public class Execucao {
         int opcao;
 
         do{
-            System.out.println("\nInforme a opçãoo:\n1 - Administração\n2 - Cliente\n9 - Sair");
+            System.out.println("\nInforme a opção:\n1 - Administração\n2 - Cliente\n9 - Sair");
             opcao = in.nextInt();
             in.nextLine();
 
